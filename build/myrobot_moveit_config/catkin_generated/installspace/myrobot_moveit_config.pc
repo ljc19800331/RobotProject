@@ -1,0 +1,8 @@
+prefix=/home/robotdev/RobotProject/install
+
+Name: myrobot_moveit_config
+Description: Description of myrobot_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/robotdev/RobotProject/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+my_robot_description:myrobot_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/robotdev/RobotProject/devel -DCMAKE_INSTALL_PREFIX=/home/robotdev/RobotProject/install -G Unix Makefiles
